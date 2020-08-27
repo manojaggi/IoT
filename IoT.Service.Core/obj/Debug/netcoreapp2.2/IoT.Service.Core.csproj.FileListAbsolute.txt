@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\bin\Debug\netcoreapp2.2\IoT.Service.Core.deps.json
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\bin\Debug\netcoreapp2.2\IoT.Service.Core.dll
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\bin\Debug\netcoreapp2.2\IoT.Service.Core.pdb
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\bin\Debug\netcoreapp2.2\IoT.Core.dll
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\bin\Debug\netcoreapp2.2\IoT.Core.pdb
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\obj\Debug\netcoreapp2.2\IoT.Service.Core.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\obj\Debug\netcoreapp2.2\IoT.Service.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\obj\Debug\netcoreapp2.2\IoT.Service.Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\obj\Debug\netcoreapp2.2\IoT.Service.Core.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\obj\Debug\netcoreapp2.2\IoT.Service.Core.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\obj\Debug\netcoreapp2.2\IoT.Service.Core.dll
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Service.Core\obj\Debug\netcoreapp2.2\IoT.Service.Core.pdb

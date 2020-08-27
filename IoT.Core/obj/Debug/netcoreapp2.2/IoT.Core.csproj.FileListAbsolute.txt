@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\bin\Debug\netcoreapp2.2\IoT.Core.deps.json
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\bin\Debug\netcoreapp2.2\IoT.Core.dll
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\obj\Debug\netcoreapp2.2\IoT.Core.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\obj\Debug\netcoreapp2.2\IoT.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\obj\Debug\netcoreapp2.2\IoT.Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\obj\Debug\netcoreapp2.2\IoT.Core.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\bin\Debug\netcoreapp2.2\IoT.Core.pdb
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\obj\Debug\netcoreapp2.2\IoT.Core.dll
+C:\Users\LENOVO\source\repos\IoT.Api\IoT.Core\obj\Debug\netcoreapp2.2\IoT.Core.pdb

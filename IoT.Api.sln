@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.Api", "IoT.Api\IoT.Api.csproj", "{B3DD1613-2368-4D24-B1F4-5BB1C80CC877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.Service.Core", "IoT.Service.Core\IoT.Service.Core.csproj", "{115BC956-A0EA-434F-A537-8911C232CC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.Core", "IoT.Core\IoT.Core.csproj", "{C9B5B829-2C75-41F4-A071-ACCB326CCE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DD1613-2368-4D24-B1F4-5BB1C80CC877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DD1613-2368-4D24-B1F4-5BB1C80CC877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DD1613-2368-4D24-B1F4-5BB1C80CC877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DD1613-2368-4D24-B1F4-5BB1C80CC877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115BC956-A0EA-434F-A537-8911C232CC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115BC956-A0EA-434F-A537-8911C232CC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115BC956-A0EA-434F-A537-8911C232CC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115BC956-A0EA-434F-A537-8911C232CC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B5B829-2C75-41F4-A071-ACCB326CCE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B5B829-2C75-41F4-A071-ACCB326CCE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B5B829-2C75-41F4-A071-ACCB326CCE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B5B829-2C75-41F4-A071-ACCB326CCE72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39418C76-0150-42CD-BCAC-1340A3A06894}
+	EndGlobalSection
+EndGlobal
